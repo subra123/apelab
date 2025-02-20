@@ -1,0 +1,1 @@
+sudo apt update && sudo apt-get install lib32stdc++6 && sudo apt remove nam -y &&  sudo apt install build-essential autoconf automake libxmu-dev -y && sudo dpkg -i nam_1.15-10_i386.deb && sudo apt-get install libxrender1:i386 libxtst6:i386 libxi6:i386 -y && sudo apt install libxext6 -y

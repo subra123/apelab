@@ -1,0 +1,6 @@
+first unzip ns-allinone
+then copy rem file into that 
+sudo dpkg --add-architecture i386
+sudo apt-get install ns2
+sudo bash install.sh
+finally ns test.tcl
